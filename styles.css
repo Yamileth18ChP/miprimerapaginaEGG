@@ -329,3 +329,8 @@ footer a {
         align-items: center;
     }
 }
+
+.greeting {
+    color: rgb(255, 60, 0);
+    text-align: center; 
+}
